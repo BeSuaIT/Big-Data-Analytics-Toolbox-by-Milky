@@ -39,7 +39,7 @@ It only works for Hadoop installed on C Drive.
 
 ## Authors
 
-- [@thaodac](https://thaodac.github.io/tlu_bigdata/) - [@BeSuaIT](https://github.com/BeSuaIT))
+- [@thaodac](https://thaodac.github.io/tlu_bigdata/) - [@BeSuaIT](https://github.com/BeSuaIT)
 
 
 ## Feedback
