@@ -18,9 +18,8 @@ To get the tool, you just need to head to the [Release Page](https://github.com/
     
 ## Take notes
 
-It only works for Hadoop installed on C Drive.
-<br>
-Always run this tool as Administrator.
+- It only works for Hadoop installed on C Drive.
+- Always run this tool as Administrator.
 
 
 ## Authors
