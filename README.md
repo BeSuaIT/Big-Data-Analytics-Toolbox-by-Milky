@@ -14,11 +14,12 @@ Just a small project for those who are lazy to type commands into CMD. It has al
 
 ## Download
 
-To get the tool, you just need to head to the [Releases Page](https://github.com/BeSuaIT/Big-Data-Analytics-Toolbox-by-Milky/releases)
+To get the tool, you just need to head to the [Release Page](https://github.com/BeSuaIT/Big-Data-Analytics-Toolbox-by-Milky/releases)
     
-## Take Notes
+## Take notes
 
 It only works for Hadoop installed on C Drive.
+
 
 
 ## Screenshots
@@ -34,6 +35,11 @@ It only works for Hadoop installed on C Drive.
 ![App Screenshot](https://i.imgur.com/a2nPP7m.png)
 
 </div>
+
+
+## Authors
+
+- [@thaodac](https://thaodac.github.io/tlu_bigdata/)
 
 
 ## Feedback
