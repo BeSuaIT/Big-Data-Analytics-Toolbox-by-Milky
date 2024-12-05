@@ -8,6 +8,7 @@ Just a simple project for those who are lazy to type commands into CMD. It has a
 - Start/Stop Hadoop.
 - Some commands to create, remove, read, list files/folders.
 - Do some algorithms.
+- Create example data files for WordCount, Kmeans, Naive Bayes.
 - And some small other Features.
 
 
@@ -34,12 +35,14 @@ If you have any feedback, please reach out to us at hoangluuminh1@gmail.com
 
 <div align="center">
 
-![App Screenshot](https://i.imgur.com/VawJJ41.png)
+![App Screenshot](https://i.imgur.com/SklmzF1.png)
 
-![App Screenshot](https://i.imgur.com/fiMfDsv.png)
+![App Screenshot](https://i.imgur.com/FPK79VV.png)
 
-![App Screenshot](https://i.imgur.com/iTchBEt.png)
+![App Screenshot](https://i.imgur.com/07fyTdU.png)
 
-![App Screenshot](https://i.imgur.com/a2nPP7m.png)
+![App Screenshot](https://i.imgur.com/wy3YXVe.png)
+
+![App Screenshot](https://i.imgur.com/PIKEdnK.png)
 
 </div>
