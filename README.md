@@ -30,6 +30,8 @@ It only works for Hadoop installed on C Drive.
 
 ![App Screenshot](https://i.imgur.com/fiMfDsv.png)
 
+![App Screenshot](https://i.imgur.com/iTchBEt.png)
+
 </div>
 
 
