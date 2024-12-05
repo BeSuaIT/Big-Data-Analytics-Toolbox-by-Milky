@@ -1,4 +1,3 @@
-
 # Big Data Analytics Toolbox by Milky
 
 Just a small project for those who are lazy to type commands into CMD. It has almost all the functions that users need to learn Big Data Analytics.
@@ -44,4 +43,3 @@ If you have any feedback, please reach out to us at hoangluuminh1@gmail.com
 ![App Screenshot](https://i.imgur.com/a2nPP7m.png)
 
 </div>
-
