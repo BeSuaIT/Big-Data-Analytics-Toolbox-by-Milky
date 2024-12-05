@@ -27,6 +27,9 @@ It only works for Hadoop installed on C Drive.
 <div align="center">
 
 ![App Screenshot](https://i.imgur.com/VawJJ41.png)
+
+<br>
+
 ![App Screenshot](https://i.imgur.com/fiMfDsv.png)
 
 </div>
