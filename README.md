@@ -21,6 +21,15 @@ To get the tool, you just need to head to the [Release Page](https://github.com/
 It only works for Hadoop installed on C Drive.
 
 
+## Authors
+
+- [@thaodac](https://thaodac.github.io/tlu_bigdata/) - [@BeSuaIT](https://github.com/BeSuaIT)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at hoangluuminh1@gmail.com
+
 
 ## Screenshots
 
@@ -35,14 +44,4 @@ It only works for Hadoop installed on C Drive.
 ![App Screenshot](https://i.imgur.com/a2nPP7m.png)
 
 </div>
-
-
-## Authors
-
-- [@thaodac](https://thaodac.github.io/tlu_bigdata/) - [@BeSuaIT](https://github.com/BeSuaIT)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at hoangluuminh1@gmail.com
 
