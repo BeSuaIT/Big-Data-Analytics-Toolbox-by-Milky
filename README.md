@@ -1,6 +1,6 @@
 # Big Data Analytics Toolbox by Milky
 
-Just a small project for those who are lazy to type commands into CMD. It has almost all the functions that users need to learn Big Data Analytics.
+Just a simple project for those who are lazy to type commands into CMD. It has almost all the functions that users need to learn Big Data Analytics.
 
 
 ## Features
