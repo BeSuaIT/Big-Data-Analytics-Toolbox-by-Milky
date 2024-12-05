@@ -16,7 +16,7 @@ Just a small project for those who are lazy to type commands into CMD. It has al
 
 To get the tool, you just need to head to the [Release Page](https://github.com/BeSuaIT/Big-Data-Analytics-Toolbox-by-Milky/releases)
     
-## Take notes
+## Take Notes
 
 It only works for Hadoop installed on C Drive.
 
