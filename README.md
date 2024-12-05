@@ -21,7 +21,6 @@ To get the tool, you just need to head to the [Releases Page](https://github.com
 It only works for Hadoop installed on C Drive.
 
 
-
 ## Screenshots
 
 <div align="center">
@@ -31,6 +30,8 @@ It only works for Hadoop installed on C Drive.
 ![App Screenshot](https://i.imgur.com/fiMfDsv.png)
 
 ![App Screenshot](https://i.imgur.com/iTchBEt.png)
+
+![App Screenshot](https://i.imgur.com/a2nPP7m.png)
 
 </div>
 
