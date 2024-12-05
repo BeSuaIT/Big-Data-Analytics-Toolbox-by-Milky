@@ -7,7 +7,7 @@ Just a simple project for those who are lazy to type commands into CMD. It has a
 
 - Start/Stop Hadoop.
 - Some commands to create, remove, read, list files/folders.
-- Do some algorithms.
+- Do WordCount, Kmeans, Naive Bayes algorithm.
 - Create example data files for WordCount, Kmeans, Naive Bayes.
 - And some small other Features.
 
