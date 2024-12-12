@@ -14,7 +14,7 @@ Just a simple project for those who are lazy to type commands into CMD. It has a
 
 ## Download
 
-To get the tool, you just need to head to the [Release Page](https://github.com/BeSuaIT/Big-Data-Analytics-Toolbox-by-Milky/releases), or you can just click on the file up there and click download raw file.
+To get the tool, you just need to head to the [Release Page](https://github.com/BeSuaIT/Big-Data-Analytics-Toolbox-by-Milky/releases), or you can just click on the .EXE file up there and click download raw file.
     
 ## Take notes
 
